@@ -17,7 +17,7 @@ class Launcher{
 
     }
 
-    attach(){
+    attach(body){
         this.launch.bodyA=body;
     }
 
